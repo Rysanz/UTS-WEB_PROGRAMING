@@ -12,3 +12,8 @@ function random(number) {
     return Math.floor(Math.random()* number)
 }
 
+document.onclick = function () {
+acak = "rgb(" + random(255) +"," + random(255) +"," +random(255) + ")";
+box1.style.background = acak
+
+}
