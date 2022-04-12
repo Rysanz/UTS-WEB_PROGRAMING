@@ -2,6 +2,6 @@
     width: 100px;
     height: 100px;
     position: fixed;
-    background-color: blue;
+    background-color: transparent;
     border: solid 4px black;
 }
